@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shuva</h1>
-<h3 align="center">I'm a passionate high school student from Nepal. I'm into computer science, C++, game development, and more exciting computer stuff.</h3>
+<h3 align="center">I'm a passionate high school student from Nepal. I'm into computer science, C++, game development, web development and more exciting computer stuff.</h3>
 <img align="center" height="50%" width="50%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on [Flappy Bird Clone](https://github.com/shuva-kharel/Flappy-Bird-Clone)
-
-- 🌱 I’m currently learning **SFML, C++**
+- 🌱 I’m currently learning **Python, Django**
 
 - 👨‍💻 All of my projects are available at [https://shuva-kharel-portfolio.github.io/](https://shuva-kharel-portfolio.github.io/)
 
