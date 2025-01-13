@@ -62,9 +62,4 @@ A passionate developer from Nepal 🌏. I am deeply interested in **computer sci
 
 ---
 
-### 💡 Fun Fact:
-*The first computer programmer was a woman — Ada Lovelace!* 💻
-
----
-
 ### 🎉 Thanks for visiting my profile! 😊
