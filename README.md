@@ -1,27 +1,82 @@
-<h1 align="center">Hi 👋, I'm Shuva</h1>
-<h3 align="center">I'm a passionate high school student from Nepal. I'm into computer science, C++, game development, web development and more exciting computer stuff.</h3>
-<img align="center" height="50%" width="50%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<h1 align="center">👋 Hi, I'm Shuva</h1>
+<h3 align="center">A passionate high school student from Nepal exploring the exciting world of computer science, game development, web development, and more.</h3>
 
-- 🌱 I’m currently learning **Python, Django**
+<div align="center">
+  <img align="center" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="coding gif" width="60%"/>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://shuva-kharel-portfolio.github.io/](https://shuva-kharel-portfolio.github.io/)
+---
 
-- 📫 How to reach me **shuvakharel007@gmail.com**
+### 🌱 About Me
+- 🌱 I’m currently learning **Python** and **Django**
+- 👨‍💻 Check out all my projects at: [My Portfolio](https://shuva-kharel-portfolio.github.io/)
+- 📫 How to reach me: **shuvakharel007@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/shuva_kharel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shuva_kharel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shuva-kharel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuva-kharel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22784357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22784357" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shuva__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shuva__" height="30" width="40" /></a>
-<a href="https://discord.gg/R8mhjK3H6v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="R8mhjK3H6v" height="30" width="40" /></a>
+---
+
+### 🔗 Connect With Me:
+<p align="center">
+  <a href="https://codepen.io/shuva_kharel" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://linkedin.com/in/shuva-kharel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/22784357" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://www.leetcode.com/shuva__" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://discord.gg/R8mhjK3H6v" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuva-kharel&show_icons=true&locale=en&layout=compact" alt="shuva-kharel" /></p>
+### 🛠️ Languages and Tools:
+<p align="center">
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuva-kharel&show_icons=true&locale=en" alt="shuva-kharel" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuva-kharel&" alt="shuva-kharel" /></p>
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shuva-kharel&show_icons=true&theme=dark&locale=en" alt="Shuva's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuva-kharel&theme=dark" alt="Shuva's Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shuva-kharel&show_icons=true&theme=dark&layout=compact&locale=en" alt="Top Languages" />
+</div>
+
+---
+
+### 🚀 Quote for Inspiration:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Programming Quote" />
+</p>
+
+---
+
+### ⭐ Fun Fact:
+💡 *The first computer programmer was a woman — Ada Lovelace!*
+
+---
+
+<div align="center">
+  <h4>Thanks for visiting my profile! 😊</h4>
+</div>
