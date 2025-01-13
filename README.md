@@ -32,9 +32,6 @@ A passionate developer from Nepal 🌏. I am deeply interested in **computer sci
   <a href="https://www.linkedin.com/in/shuva-kharel" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
   </a>
-  <a href="https://www.codepen.io/shuva_kharel" target="_blank">
-    <img src="https://img.shields.io/badge/codepen?style=for-the-badge&logo=codepen&logoColor=white&color=black" alt="codepen" />
-  </a>
   <a href="https://stackoverflow.com/users/22784357" target="_blank">
     <img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" />
   </a>
