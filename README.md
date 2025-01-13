@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shuva Kharel
+<h1 align="center">Hi 👋, I'm Shuva Kharel</h1>
 
 A passionate developer from Nepal 🌏. I am deeply interested in **computer science**, **game development**, **web development**, and exploring new technologies. I love learning and building projects to improve my skills!
 
