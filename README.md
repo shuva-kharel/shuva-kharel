@@ -71,5 +71,3 @@
 ---
 
 ### 🎉 Thanks for visiting my profile! 😊
-
-<img src="https://raw.githubusercontent.com/shuva-kharel/shuva-kharel/main/dist/snake.svg" alt="Snake animation" />
