@@ -2,17 +2,6 @@
 
 <p align="center">A passionate developer from Nepal 🌏. I am deeply interested in <b>computer science</b>, <b>game development</b>, <b>web development</b>, and exploring new technologies. I love learning and building projects to improve my skills!</p>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuva-kharel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Shuva's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shuva-kharel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
----
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="GIF Animation" />
-
 ### 🚀 Languages and Tools I Use:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
