@@ -29,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="30" alt="Django logo" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="Tailwind CSS logo" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="Postman logo" />
 </div>
@@ -57,7 +56,6 @@
 ### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shuva-kharel&show_icons=true&theme=radical&locale=en" alt="Shuva's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuva-kharel&theme=radical" alt="Shuva's Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shuva-kharel&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
 </div>
 
