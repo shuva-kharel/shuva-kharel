@@ -59,7 +59,7 @@ Languages / Frameworks / Tools I play with:
   <a href="https://stackoverflow.com/users/22784357" target="_blank">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" />
   </a>
-  <a href="https://github.com/shuva-kharel" target="_blank">
+  <a href="https://github.com/shuva_kharel" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/shuva_kharel/" target="_blank">
