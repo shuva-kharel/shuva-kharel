@@ -1,52 +1,91 @@
-<h1 align="center">Hi 👋, I'm Shuva Kharel</h1>
+<h1 align="center">Hey there 👋, I'm Shuva Kharel</h1>
 
-<p align="center">A passionate developer from Nepal 🌏. I am deeply interested in <b>computer science</b>, <b>game development</b>, <b>web development</b>, and exploring new technologies. I love learning and building projects to improve my skills!</p>
-
-### 🚀 Languages and Tools I Use:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" alt="C logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="Tailwind CSS logo" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="Postman logo" />
-</div>
+<p align="center">
+🌍 From Nepal 🇳🇵 • 🧠 High School Student • 💻 Aspiring Software Engineer
+</p>
 
 ---
 
-### ⚡ Where to Find Me:
-<div align="center">
+### 👨‍💻 About Me
+
+Hey! I’m Shuva — a curious mind with big dreams and bigger hustle. Currently grinding through high school (+2 Science PCM) while diving deep into the world of tech.
+
+- 🔭 I’m exploring **Full-Stack Web Dev** (MERN & Next.js), **Cybersecurity**, and **CS fundamentals**
+- 💡 Passionate about **learning**, **problem-solving**, and building real-world projects
+- 🧱 I believe in **compound growth** — small progress every day adds up to greatness
+- 🚀 Goal: Be the guy who knows how systems break — and how to make them unbreakable
+
+Right now, I’m not chasing trends. I’m chasing *skill*. I’m here to learn, build, and grow — every single day.
+
+---
+
+### 🔧 Tech Toolbox
+
+Languages / Frameworks / Tools I play with:
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="Postman" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Kali_Linux_2.0_wordmark.svg" height="30" alt="Kali Linux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Metasploit_logo_and_wordmark.svg" height="30" alt="Metasploit" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Wireshark_icon.svg/1024px-Wireshark_icon.svg.png" height="30" alt="Wireshark" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Burp_Suite_logo.png" height="30" alt="Burp Suite" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Nmap-logo.png" height="30" alt="Nmap" />
+</div>
+
+
+---
+
+### 🎯 Current Mission:
+
+- 🔁 Build real projects, not just tutorials
+- 🧠 Deepen core CS knowledge (DSA, OS, DBMS, Networking)
+- 🔐 Get strong in Cybersecurity
+- 🏋️‍♂️ Stay consistent
+- 💪 Never settle for average — aim elite
+
+---
+
+### 📬 Connect with me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/shuva-kharel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/22784357" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stack Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" alt="Stack Overflow logo" />
-  </a>
-  <a href="https://github.com/shuva-kharel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" alt="GitHub logo" />
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
   <a href="mailto:shuvakharel007@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuva-kharel&show_icons=true&theme=radical&locale=en" alt="Shuva's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shuva-kharel&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-</div>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shuva-kharel&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuva-kharel&layout=compact&theme=radical" alt="langs" />
+</p>
 
 ---
 
-### 🎉 Thanks for visiting my profile! 😊
+### ⚡ Quick Quote
+
+> “Discipline equals freedom.” – Jocko Willink  
+> I don’t wait for motivation. I move with purpose. Every. Damn. Day.
+
+---
+
