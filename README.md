@@ -59,6 +59,9 @@ Languages / Frameworks / Tools I play with:
   <a href="https://stackoverflow.com/users/22784357" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/shuva_kharel/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" alt="Instagram"/>
+  </a>
   <a href="mailto:shuvakharel007@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
