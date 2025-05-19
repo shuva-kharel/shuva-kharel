@@ -35,13 +35,12 @@ Languages / Frameworks / Tools I play with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="Postman" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Kali_Linux_2.0_wordmark.svg" height="30" alt="Kali Linux" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Metasploit_logo_and_wordmark.svg" height="30" alt="Metasploit" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Wireshark_icon.svg/1024px-Wireshark_icon.svg.png" height="30" alt="Wireshark" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Burp_Suite_logo.png" height="30" alt="Burp Suite" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Nmap-logo.png" height="30" alt="Nmap" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali_Linux_Logo.svg" height="30" alt="Kali Linux" />
+  <img src="https://www.offsec.com/wp-content/uploads/2022/10/metasploit-logo.svg" height="30" alt="Metasploit" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wireshark_Logo.svg" height="30" alt="Wireshark" />
+  <img src="https://portswigger.net/cms/images/04/2f/cb58-logo-burp-suite.svg" height="30" alt="Burp Suite" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Nmap_Logo.svg" height="30" alt="Nmap" />
 </div>
 
 
