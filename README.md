@@ -35,12 +35,6 @@ Languages / Frameworks / Tools I play with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali_Linux_Logo.svg" height="30" alt="Kali Linux" />
-  <img src="https://www.offsec.com/wp-content/uploads/2022/10/metasploit-logo.svg" height="30" alt="Metasploit" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wireshark_Logo.svg" height="30" alt="Wireshark" />
-  <img src="https://portswigger.net/cms/images/04/2f/cb58-logo-burp-suite.svg" height="30" alt="Burp Suite" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Nmap_Logo.svg" height="30" alt="Nmap" />
 </div>
 
 
