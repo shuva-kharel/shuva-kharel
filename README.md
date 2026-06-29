@@ -53,12 +53,8 @@ I'm a self-taught developer grinding through +2 Science while building real thin
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shuva_kharel)&nbsp;
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22784357)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shuva_kharel/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shuvakharel007@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hey.shuva@gmail.com)
 
 </div>
 
 ---
-
-<div align="center">
-  <sub><i>"Discipline equals freedom."</i></sub>
-</div>
