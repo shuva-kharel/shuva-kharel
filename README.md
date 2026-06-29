@@ -35,14 +35,6 @@ I'm a self-taught developer grinding through +2 Science while building real thin
 - Deepening CS foundations: DSA, OS, Networking, DBMS
 - Getting serious about Cybersecurity
 
----
-
-### Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuva-kharel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=79b8ff&icon_color=79b8ff&text_color=c9d1d9" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuva-kharel&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=79b8ff&text_color=c9d1d9" height="150" />
-</div>
 
 ---
 
