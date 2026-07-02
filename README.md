@@ -32,9 +32,9 @@ I'm a self-taught developer from Nepal, grinding through +2 Science while shippi
 
 <div align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind&theme=dark" alt="Web stack"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind&theme=dark" alt="Web stack"/></a>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,bash,vscode,postman&theme=dark" alt="Tools"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,bash&theme=dark" alt="Tools"/></a>
 
 </div>
 
