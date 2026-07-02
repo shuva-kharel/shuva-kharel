@@ -1,52 +1,118 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#7ee787"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#58a6ff"/>
+      <stop offset="0.7" stop-color="#7ee787"/>
+      <stop offset="1" stop-color="#7ee787" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.12" cy="0.05" r="1">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0.14"/>
+      <stop offset="0.5" stop-color="#58a6ff" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
   <style>
     .bg { fill: #0d1117; }
-    .name {
-      font-size: 52px;
-      font-weight: 700;
-      letter-spacing: -1px;
-      fill: #e6edf3;
-    }
-    .accent { fill: #58a6ff; }
-    .tagline {
-      font-size: 17px;
-      fill: #8b949e;
-      letter-spacing: 3px;
-    }
-    .typed {
-      font-size: 20px;
-      font-family: 'Courier New', monospace;
-      fill: #7ee787;
-    }
-    .cursor {
-      font-size: 20px;
-      font-family: 'Courier New', monospace;
-      fill: #7ee787;
-      animation: blink 1s step-end infinite;
-    }
+    .name { font-size: 52px; font-weight: 700; letter-spacing: -1px; fill: #e6edf3; }
+    .accent { fill: url(#accentGrad); }
+    .tagline { font-size: 15px; fill: #8b949e; letter-spacing: 5px; font-weight: 600; }
+    .tag-accent { fill: #58a6ff; }
+    .typed { font-size: 20px; font-family: 'Courier New', monospace; fill: #7ee787; }
+    .dim { fill: #8b949e; }
     .grid-line { stroke: #21262d; stroke-width: 1; }
     .dot { fill: #30363d; }
-    .glow-line {
-      stroke: #58a6ff;
-      stroke-width: 2;
-      stroke-dasharray: 900;
-      stroke-dashoffset: 900;
-      animation: draw 3s ease-out forwards;
-      opacity: 0.6;
+    .bracket { stroke: #58a6ff; stroke-width: 1.5; fill: none; opacity: 0.4; }
+
+    .hex-outer {
+      stroke: url(#accentGrad); stroke-width: 1.5; fill: none; opacity: 0.45;
+      stroke-dasharray: 60 22;
+      animation: hexspin 9s linear infinite;
     }
+    .hex-inner { stroke: #58a6ff; stroke-width: 1; fill: none; opacity: 0.18; }
+    .lock { stroke: #7ee787; stroke-width: 1.6; fill: none; opacity: 0.85; }
+    .lock-dot { fill: #7ee787; }
+    .pulse {
+      stroke: #7ee787; fill: none; stroke-width: 1.5;
+      animation: pulse 3s ease-out infinite;
+    }
+    .pulse.d2 { animation-delay: 1.5s; }
+
+    .glow-line {
+      stroke: url(#lineGrad); stroke-width: 2;
+      stroke-dasharray: 900; stroke-dashoffset: 900;
+      animation: draw 2.5s ease-out forwards;
+    }
+
+    .fade-1 { animation: fadeUp 0.8s ease-out forwards; opacity: 0; }
+    .fade-2 { animation: fadeUp 0.8s ease-out 0.3s forwards; opacity: 0; }
+    .fade-3 { animation: fadeUp 0.8s ease-out 0.6s forwards; opacity: 0; }
+
+    .p1 { animation: show1 15s step-end infinite; }
+    .p2 { animation: show2 15s step-end infinite; opacity: 0; }
+    .p3 { animation: show3 15s step-end infinite; opacity: 0; }
+
+    .cover { fill: #0d1117; }
+    .cur { fill: #7ee787; animation: blink 1s step-end infinite; }
+
+    .t1 { animation: type1 15s steps(36, end) infinite; }
+    .t2 { animation: type2 15s steps(27, end) infinite; }
+    .t3 { animation: type3 15s steps(39, end) infinite; }
+
     @keyframes blink { 50% { opacity: 0; } }
     @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes hexspin { to { stroke-dashoffset: -246; } }
     @keyframes fadeUp {
       from { opacity: 0; transform: translateY(12px); }
       to { opacity: 1; transform: translateY(0); }
     }
-    .fade-1 { animation: fadeUp 0.8s ease-out forwards; opacity: 0; }
-    .fade-2 { animation: fadeUp 0.8s ease-out 0.3s forwards; opacity: 0; }
-    .fade-3 { animation: fadeUp 0.8s ease-out 0.6s forwards; opacity: 0; }
+    @keyframes pulse {
+      0% { r: 4; opacity: 0.8; }
+      100% { r: 46; opacity: 0; }
+    }
+    @keyframes show1 { 0% {opacity:1;} 33.3% {opacity:0;} 100% {opacity:0;} }
+    @keyframes show2 { 0% {opacity:0;} 33.3% {opacity:1;} 66.6% {opacity:0;} 100% {opacity:0;} }
+    @keyframes show3 { 0% {opacity:0;} 66.6% {opacity:1;} 100% {opacity:1;} }
+    @keyframes type1 {
+      0% { transform: translateX(0); }
+      13% { transform: translateX(440px); }
+      33.3% { transform: translateX(440px); }
+      33.4% { transform: translateX(0); }
+      100% { transform: translateX(0); }
+    }
+    @keyframes type2 {
+      0% { transform: translateX(0); }
+      33.3% { transform: translateX(0); }
+      45% { transform: translateX(330px); }
+      66.6% { transform: translateX(330px); }
+      66.7% { transform: translateX(0); }
+      100% { transform: translateX(0); }
+    }
+    @keyframes type3 {
+      0% { transform: translateX(0); }
+      66.6% { transform: translateX(0); }
+      78% { transform: translateX(475px); }
+      100% { transform: translateX(475px); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+      .fade-1, .fade-2, .fade-3 { opacity: 1; }
+      .p2, .p3, .cover, .cur { display: none; }
+      .p1 { opacity: 1; }
+      .glow-line { stroke-dashoffset: 0; }
+    }
   </style>
 
   <rect class="bg" width="900" height="220" rx="12"/>
+  <rect width="900" height="220" rx="12" fill="url(#glow)"/>
 
+  <!-- blueprint grid -->
   <line class="grid-line" x1="0" y1="55" x2="900" y2="55"/>
   <line class="grid-line" x1="0" y1="110" x2="900" y2="110"/>
   <line class="grid-line" x1="0" y1="165" x2="900" y2="165"/>
@@ -55,25 +121,63 @@
   <line class="grid-line" x1="450" y1="0" x2="450" y2="220"/>
   <line class="grid-line" x1="600" y1="0" x2="600" y2="220"/>
   <line class="grid-line" x1="750" y1="0" x2="750" y2="220"/>
-
   <circle class="dot" cx="150" cy="55" r="2.5"/>
   <circle class="dot" cx="450" cy="110" r="2.5"/>
-  <circle class="dot" cx="750" cy="55" r="2.5"/>
   <circle class="dot" cx="300" cy="165" r="2.5"/>
   <circle class="dot" cx="600" cy="165" r="2.5"/>
 
+  <!-- HUD corner brackets -->
+  <path class="bracket" d="M 24 14 L 14 14 L 14 24"/>
+  <path class="bracket" d="M 876 14 L 886 14 L 886 24"/>
+  <path class="bracket" d="M 24 206 L 14 206 L 14 196"/>
+  <path class="bracket" d="M 876 206 L 886 206 L 886 196"/>
+
+  <!-- rotating hex sentinel with padlock (right side) -->
+  <g>
+    <polygon class="hex-outer" points="775,54 821.8,81 821.8,135 775,162 728.2,135 728.2,81"/>
+    <polygon class="hex-inner" points="775,70 807.9,89 807.9,127 775,146 742.1,127 742.1,89"/>
+    <circle class="pulse" cx="775" cy="108" r="4"/>
+    <circle class="pulse d2" cx="775" cy="108" r="4"/>
+    <path class="lock" d="M 768 103 v-6 a 7 7 0 0 1 14 0 v6"/>
+    <rect class="lock" x="764" y="103" width="22" height="17" rx="3"/>
+    <circle class="lock-dot" cx="775" cy="111" r="2.2"/>
+  </g>
+
+  <!-- name -->
   <g class="fade-1">
     <text x="60" y="95" class="name">Shuva <tspan class="accent">Kharel</tspan></text>
   </g>
 
+  <!-- tagline -->
   <g class="fade-2">
-    <text x="62" y="130" class="tagline">FULL-STACK DEV · CS FUNDAMENTALS · CYBERSECURITY</text>
+    <text x="62" y="130" class="tagline"><tspan class="tag-accent">[</tspan> CYBERSECURITY <tspan class="tag-accent">]</tspan></text>
   </g>
 
+  <!-- cycling terminal line -->
   <g class="fade-3">
-    <text x="62" y="172" class="typed">$ building from Kathmandu, Nepal 🇳🇵</text>
-    <text x="435" y="172" class="cursor">▊</text>
+    <g class="p1">
+      <text x="62" y="172" class="typed"><tspan class="dim">$</tspan> whoami <tspan class="dim">→</tspan> cybersecurity enthusiast</text>
+      <g class="t1">
+        <rect class="cover" x="62" y="152" width="660" height="28"/>
+        <rect class="cur" x="62" y="155" width="11" height="21"/>
+      </g>
+    </g>
+    <g class="p2">
+      <text x="62" y="172" class="typed"><tspan class="dim">$</tspan> nmap -sV -p- the_unknown</text>
+      <g class="t2">
+        <rect class="cover" x="62" y="152" width="660" height="28"/>
+        <rect class="cur" x="62" y="155" width="11" height="21"/>
+      </g>
+    </g>
+    <g class="p3">
+      <text x="62" y="172" class="typed"><tspan class="dim">$</tspan> echo "learn. break. secure. repeat."</text>
+      <g class="t3">
+        <rect class="cover" x="62" y="152" width="660" height="28"/>
+        <rect class="cur" x="62" y="155" width="11" height="21"/>
+      </g>
+    </g>
   </g>
 
+  <!-- bottom energy line -->
   <line class="glow-line" x1="0" y1="218" x2="900" y2="218"/>
 </svg>
