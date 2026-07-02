@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Shuva Kharel — Full-Stack Dev, CS Fundamentals, Cybersecurity" width="100%"/>
+<img src="./assets/hero.svg" alt="Shuva Kharel — Cybersecurity" width="100%"/>
 
 <br/>
 <br/>
@@ -40,35 +40,6 @@ I'm a self-taught developer from Nepal, grinding through +2 Science while shippi
 
 <br/>
 
-## 🚀 Featured
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤝 BorrowSmart
-
-**Borrow Smarter. Lend Safer.**
-
-A peer-to-peer item lending platform — think Airbnb, but for everyday items. Built with the MERN stack.
-
-`Auth + 2FA` `KYC verification` `Real-time chat` `Admin panel` `Role-based access`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 What's next
-
-Currently deep-diving into **cybersecurity** — starting with how systems break so I can learn to make them unbreakable.
-
-`Web security` `Networking` `Linux internals` `CTF (soon)`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 📈 Activity
 
 <div align="center">
@@ -80,10 +51,6 @@ Currently deep-diving into **cybersecurity** — starting with how systems break
 <br/>
 
 <div align="center">
-
-*"Discipline equals freedom."* — Jocko Willink
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=shuva-kharel&style=flat-square&color=58a6ff&label=profile+views" alt="Profile views"/>
 
