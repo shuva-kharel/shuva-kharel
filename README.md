@@ -21,10 +21,8 @@ I'm a self-taught developer from Nepal, grinding through +2 Science while shippi
 
 |                    |                                                          |
 | ------------------ | -------------------------------------------------------- |
-| 🎯 **Focus**       | Full-stack web (MERN / Next.js) · CS core · Cybersecurity |
-| 🛠️ **Building**    | **BorrowSmart** — a peer-to-peer item lending platform    |
-| 📚 **Learning**    | DSA · Operating Systems · Networking · DBMS               |
-| ⚡ **Philosophy**  | Small progress daily. Compound growth. No shortcuts.      |
+| 🎯 **Focus**       | CS core · Cybersecurity |
+| 📚 **Learning**    | Networking · DBMS · Operating Systems |
 
 <br/>
 
