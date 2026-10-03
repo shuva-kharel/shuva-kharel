@@ -1,21 +1,22 @@
 <img src="./assets/hero.svg" alt="Shuva Kharel | Cybersecurity and software development | Kathmandu, Nepal" width="100%"/>
 
 <p align="center">
-  <a href="mailto:hey.shuva@gmail.com">Email</a> &nbsp;/&nbsp;
-  <a href="https://www.linkedin.com/in/shuva-kharel">LinkedIn</a> &nbsp;/&nbsp;
-  <a href="https://x.com/shuva_kharel">X</a> &nbsp;/&nbsp;
-  <a href="https://stackoverflow.com/users/22784357">Stack Overflow</a> &nbsp;/&nbsp;
-  <a href="https://www.instagram.com/shuva_kharel/">Instagram</a>
+  <a href="mailto:hey.shuva@gmail.com"><img src="./assets/email.svg" alt="Email" height="32"/></a>
+  <a href="https://www.linkedin.com/in/shuva-kharel"><img src="./assets/linkedin.svg" alt="LinkedIn" height="32"/></a>
+  <a href="https://x.com/shuva_kharel"><img src="./assets/x.svg" alt="X" height="32"/></a>
+  <a href="https://stackoverflow.com/users/22784357"><img src="./assets/stackoverflow.svg" alt="Stack Overflow" height="32"/></a>
+  <a href="https://www.instagram.com/shuva_kharel/"><img src="./assets/instagram.svg" alt="Instagram" height="32"/></a>
 </p>
 
-### Behind the code
+<h3 align="center">Behind the code</h3>
 
-I build for the web and study how software works beneath the surface. My interests include Linux, networking, and software security.
+<p align="center">
+  I build for the web and study how software works beneath the surface.<br/>
+  My interests include Linux, networking, and software security.
+</p>
 
-### Toolbox
-
-**Languages** &nbsp; `Python` `C++` `JavaScript` `TypeScript`
-
-**Web** &nbsp; `React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
-
-**Environment** &nbsp; `Linux` `Bash` `Git` `GitHub`
+<p align="center">
+  <img src="./assets/languages.svg" width="264" alt="Languages: Python, C++, JavaScript, TypeScript"/>
+  <img src="./assets/web.svg" width="264" alt="Web development: React, Node.js, Express, MongoDB, Tailwind CSS"/>
+  <img src="./assets/environment.svg" width="264" alt="Environment: Linux, Bash, Git, GitHub"/>
+</p>
