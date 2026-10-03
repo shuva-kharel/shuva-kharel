@@ -10,7 +10,6 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/quote.svg" width="760" alt="Sometimes I dream of saving the world. Saving everyone from the invisible hand."/>
 </p>
 
 <p align="center">
