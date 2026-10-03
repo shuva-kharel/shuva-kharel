@@ -1,61 +1,69 @@
-# Shuva Kharel
+<div align="center">
 
-Hi, I'm Shuva. I'm a first-year BSc Cybersecurity student in Nepal, building my foundation in C, Linux, networking, and low-level systems.
+<img src="./assets/hero.svg" alt="Shuva Kharel | Cybersecurity & Development" width="100%"/>
 
-I like learning through practical projects and writing down what I figure out. Right now, I'm taking the time to understand the fundamentals before going deeper into security.
+<br/>
 
-## Current focus
+### Shuva Kharel
 
-- **C programming** — pointers, memory, and small programs.
-- **Linux** — the shell, permissions, processes, and everyday system use.
-- **Computer architecture** — how the CPU, memory, and programs fit together.
-- **Networking / CCNA** — TCP/IP, subnetting, routing, and switching.
-- **Git & engineering workflow** — clear commits, documentation, and maintainable projects.
-- **Web & security fundamentals** — HTTP, authentication, and common vulnerabilities.
+**Cybersecurity enthusiast · Fullstack developer**
 
-## Where I'm headed
+Interested in how things are built, how they work, and where they break.
 
-I'm aiming toward product security engineering and secure software engineering. Over time, I want to work on vulnerability research, reverse engineering, and exploit development. For now, that means getting comfortable with how software and systems actually work.
+<br/>
 
-## Projects
+<a href="https://www.linkedin.com/in/shuva-kharel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/shuva_kharel"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://stackoverflow.com/users/22784357"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+<a href="https://www.instagram.com/shuva_kharel/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:hey.shuva@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-- **ThreatLens / MiniSOC** — a lightweight SOC-style security project. *Link to come.*
-  <!-- Replace the project name with a Markdown link when the repository is available. -->
-- **[Portfolio](https://www.shuvakharel.com.np)** — my personal website. [Source](https://github.com/shuva-kharel/portfolio).
-- **[ExamForge](https://github.com/shuva-kharel/examforge)** — an exam preparation platform for Nepali students. [Website](https://examforge.shuvakharel.com.np).
-- **Labs & writeups** — a place for small experiments and notes as I learn. *Links to come.*
+</div>
 
-## Learning log
-
-I want my notes to show what I tried, what went wrong, and what I understood afterward. I'll add links here as I publish them:
-
-- **Bandit notes** — commands, approaches, and lessons from each level.
-- **Linux labs** — working with permissions, processes, and services.
-- **C experiments** — pointers, memory layout, and debugging.
-- **Networking labs** — packet captures, subnetting, and routing.
-- **Security writeups** — lab observations and explanations in my own words.
-
-<!-- Add each note or lab URL to its title above when published. -->
-
-## Tech stack
-
-What I'm using and learning, with security topics still at the fundamentals stage:
-
-- **Languages:** C, Python, JavaScript / TypeScript
-- **Systems:** Linux, Git, Bash
-- **Web:** React, Next.js, Node.js
-- **Security:** networking, web security basics, reverse engineering basics
-- **Tools:** Wireshark, Nmap, Burp Suite, Docker
+<br/>
 
 ---
 
-## Contact
+### A little about me
 
-[Website](https://www.shuvakharel.com.np) · [LinkedIn](https://www.linkedin.com/in/shuva-kharel) · [Email](mailto:hey.shuva@gmail.com) · [GitHub](https://github.com/shuva-kharel)
+I'm Shuva, a cybersecurity student from Nepal who also builds for the web.
 
-<details>
-<summary>Elsewhere</summary>
+This is where I keep my projects, experiments, and things I'm figuring out along the way. My interests sit somewhere between web development, Linux, and understanding the security side of software.
 
-[Stack Overflow](https://stackoverflow.com/users/22784357) · [X](https://x.com/shuva_kharel) · [Instagram](https://www.instagram.com/shuva_kharel/)
+**Working on:** [dotlnk](https://github.com/shuva-kharel/dotlnk)  
+**Say hello:** [hey.shuva@gmail.com](mailto:hey.shuva@gmail.com)
 
-</details>
+<br/>
+
+### Tools I work with
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Web development**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind&theme=dark&perline=4" alt="JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS"/>
+
+</td>
+<td valign="top" width="50%">
+
+**Languages & environment**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github&theme=dark&perline=3" alt="Python, C++, Linux, Bash, Git, GitHub"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### Around here lately
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shuva-kharel&bg_color=0d1117&color=9da7b3&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true&custom_title=Shuva%27s%20contributions" alt="Shuva's GitHub contribution activity" width="100%"/>
+
+---
+
+<div align="center">
+<sub>Learning as I go. Building as I learn.</sub>
+</div>
