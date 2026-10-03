@@ -8,7 +8,11 @@
   <a href="https://www.instagram.com/shuva_kharel/"><img src="./assets/instagram.svg" alt="Instagram" height="32"/></a>
 </p>
 
-<h3 align="center">"Sometimes I dream of saving the world."</h3>
+<br/>
+
+<p align="center">
+  <img src="./assets/quote.svg" width="760" alt="Sometimes I dream of saving the world. Saving everyone from the invisible hand."/>
+</p>
 
 <p align="center">
   <sub>Elliot Alderson, Mr. Robot</sub>
@@ -17,6 +21,8 @@
 <p align="center">
   <code>$ sudo install opsec</code>
 </p>
+
+<br/>
 
 <p align="center">
   <img src="./assets/languages.svg" width="264" alt="Languages: Python, C++, JavaScript, TypeScript"/>

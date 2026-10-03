@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="104" viewBox="0 0 760 104" role="img" aria-labelledby="title">
+  <title id="title">"Sometimes I dream of saving the world. Saving everyone from the invisible hand."</title>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; fill: #1f2328; }
+    .red { fill: #cf222e; }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #f0f3f2; }
+      .red { fill: #f85149; }
+    }
+  </style>
+  <text x="380" y="37" text-anchor="middle">"SOMETIMES I DREAM OF SAVING THE <tspan class="red">WORLD.</tspan></text>
+  <text x="380" y="79" text-anchor="middle">SAVING EVERYONE FROM THE INVISIBLE <tspan class="red">HAND."</tspan></text>
+</svg>
