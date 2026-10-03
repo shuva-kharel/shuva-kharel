@@ -8,11 +8,14 @@
   <a href="https://www.instagram.com/shuva_kharel/"><img src="./assets/instagram.svg" alt="Instagram" height="32"/></a>
 </p>
 
-<h3 align="center">Behind the code</h3>
+<h3 align="center">"Sometimes I dream of saving the world."</h3>
 
 <p align="center">
-  I build for the web and study how software works beneath the surface.<br/>
-  My interests include Linux, networking, and software security.
+  <sub>Elliot Alderson, Mr. Robot</sub>
+</p>
+
+<p align="center">
+  <code>$ sudo install opsec</code>
 </p>
 
 <p align="center">
