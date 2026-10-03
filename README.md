@@ -1,5 +1,7 @@
 <img src="./assets/hero.svg" alt="Shuva Kharel | Cybersecurity and software development | Kathmandu, Nepal" width="100%"/>
 
+<br/>
+
 <p align="center">
   <a href="mailto:hey.shuva@gmail.com"><img src="./assets/email.svg" alt="Email" height="32"/></a>
   <a href="https://www.linkedin.com/in/shuva-kharel"><img src="./assets/linkedin.svg" alt="LinkedIn" height="32"/></a>
