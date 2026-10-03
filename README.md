@@ -5,7 +5,6 @@
   <a href="https://www.linkedin.com/in/shuva-kharel"><img src="./assets/linkedin.svg" alt="LinkedIn" height="32"/></a>
   <a href="https://x.com/shuva_kharel"><img src="./assets/x.svg" alt="X" height="32"/></a>
   <a href="https://stackoverflow.com/users/22784357"><img src="./assets/stackoverflow.svg" alt="Stack Overflow" height="32"/></a>
-  <a href="https://www.instagram.com/shuva_kharel/"><img src="./assets/instagram.svg" alt="Instagram" height="32"/></a>
 </p>
 
 <br/>
